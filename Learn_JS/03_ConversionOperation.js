@@ -37,3 +37,6 @@ console.log(typeof BoleanIsLogedin);
  * "Gaurav" => true
  * 
  */
+
+
+// ********************OPERATIONS********************
