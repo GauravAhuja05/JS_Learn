@@ -21,3 +21,12 @@ const scoreValue = 100.3
 const isLoggedIn =  false;
 const outsideTemp =null;
 let userEmail; // let userEmail = undefined  both are same 
+
+
+let id = "Gaurav";
+let id2 = id;
+id2 = "Gaurav Ahuja" ;
+console.log(id +' Part 1');
+id = "Aman"
+console.log(id+' Part 2');
+console.log(id2);
